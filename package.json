@@ -43,12 +43,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-wantu.git"
+    "url": "git+https://github.com/xiaoyueguang/egg-wantu"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/xiaoyueguang/egg-wantu/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-wantu#readme",
+  "homepage": "https://github.com/xiaoyueguang/egg-wantu#readme",
   "author": "linjilei@qq.com",
   "license": "MIT"
 }
